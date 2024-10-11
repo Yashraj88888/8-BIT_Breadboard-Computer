@@ -6,7 +6,7 @@ Mrinal Kumar [Mechatronics Engg. , MIT]
 Yashraj Sakunde [Computer Engg., MIT]
 
 # CIRCUIT DESCRIPTION
-
+[working circuit video](https://youtube.com/shorts/is5EWHqlPvY)
 # CONCEPT
 
 # PARTS INVOLVED
