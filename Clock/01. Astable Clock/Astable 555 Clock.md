@@ -1,9 +1,9 @@
 We created the astable clock using ne555 timer IC, following Ben Eater's Playlist to build a 8 bit computer. This is step one in the process of the same.
 DATE - 11th October 2024
-Contributors - 
-Yashvardhan Singh [Electronics Engg. , MIT] 
-Mrinal Kumar [Mechatronics Engg. , MIT] 
-Yashraj Sakunde [Computer Engg., MIT]
+Contributors - <br>
+Yashvardhan Singh [Electronics Engg. , MIT] <br>
+Mrinal Kumar [Mechatronics Engg. , MIT] <br>
+Yashraj Sakunde [Computer Engg., MIT]<br>
 
 # CIRCUIT DESCRIPTION
 [working circuit video](https://youtube.com/shorts/is5EWHqlPvY)
