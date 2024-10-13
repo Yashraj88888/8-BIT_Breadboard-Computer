@@ -6,7 +6,7 @@ Mrinal Kumar [Mechatronics Engg. , MIT] <br>
 Yashraj Sakunde [Computer Engg., MIT]<br>
 
 # CIRCUIT DESCRIPTION
-![working circuit video](https://youtube.com/shorts/is5EWHqlPvY) 
+[ASTABLE CLOCK - Circuit Demonstration Video](https://youtube.com/shorts/is5EWHqlPvY) 
 <br> 
 ![Astable Clock](https://i.ibb.co/pj4266B/astable.jpg)
 
