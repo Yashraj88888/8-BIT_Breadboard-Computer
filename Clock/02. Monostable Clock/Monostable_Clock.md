@@ -13,7 +13,8 @@ Step 2 - Monostable Clock Circuit
 <br> 
 
 ## Circuit Image:
-![Monostable Clock](https://i.ibb.co/7VGMz5q/monostable.jpg)
+ ![monostable](https://github.com/user-attachments/assets/b18bff68-0411-4a6c-a9a7-26832960f9d3)
+
 
 # ✦ CONCEPT
 <br>
