@@ -9,10 +9,13 @@ Step 3, Bistable clock
 
 # ✦ CIRCUIT DESCRIPTION
 ## Circuit Video:
+[Working Circuit Demonstration Video](https://youtu.be/oMBx0c7bvxE?si=CeoeTFkxjhTQHx8j)
 
 <br> 
 ## Circuit Image:
-![Bistable Clock]()
+
+![8bitbbcompclcok](https://github.com/user-attachments/assets/2bc822f1-319a-4e02-ab7c-648b87e87508)
+
 
 # ✦ CONCEPT
 <br>
