@@ -9,7 +9,7 @@ Step 2 - Monostable Clock Circuit
 
 # ✦ CIRCUIT DESCRIPTION
 ## Circuit Video:
-
+[Working Circuit Video Demonstration](https://youtube.com/shorts/OJ7SDyFAYuA?si=gvF56Jq3z6rS4kvV)
 <br> 
 
 ## Circuit Image:
